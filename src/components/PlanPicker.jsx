@@ -5,20 +5,20 @@ const plans = [
 	{
 		name: "Starter",
 		price: 199,
-		storage: "10 GB secure storage",
+		storage: "10 GB storage",
 		support: "Email support",
 	},
 	{
 		name: "Team",
 		price: 499,
-		storage: "100 GB secure storage",
-		support: "Priority support",
+		storage: "100 GB storage",
+		support: "Chat support",
 	},
 	{
 		name: "Business",
 		price: 999,
-		storage: "Unlimited secure storage",
-		support: "24/7 priority support",
+		storage: "1000 GB storage",
+		support: "Phone support",
 	},
 ];
 
